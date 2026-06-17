@@ -1,0 +1,244 @@
+{
+  "diseases": [
+    {
+      "name": "Fungal Infection",
+      "brief": "A skin disease caused by a fungus, commonly affecting moist areas of the body like feet, groin, or skin folds.",
+      "causes": ["Warm and humid environments", "Poor personal hygiene", "Weakened immune system", "Sharing infected clothing or towels"],
+      "precautions": ["Keep skin clean and dry", "Change clothes and socks daily", "Avoid sharing personal items", "Wear loose, breathable cotton clothing"],
+      "associated_symptoms": ["itching", "skin_rash", "nodal_skin_eruptions", "dischromic_patches"],
+      "disclaimer": "WARNING: This is an automated machine-learning response and may contain mistakes. Do not rely on this for an official diagnosis. Please consult a qualified doctor for proper evaluation and treatment."
+    },
+    {
+      "name": "Allergy",
+      "brief": "An immune system reaction to a foreign substance (allergen) that is typically harmless to most people.",
+      "causes": ["Airborne allergens (pollen, dust mites, mold, pet dander)", "Certain foods", "Insect stings", "Specific medications"],
+      "precautions": ["Identify and avoid known allergens", "Keep indoor air clean using HEPA filters", "Wash bedding regularly in hot water", "Carry prescribed antihistamines"],
+      "associated_symptoms": ["continuous_sneezing", "shivering", "chills", "watering_from_eyes"],
+      "disclaimer": "WARNING: This is an automated machine-learning response and may contain mistakes. Do not rely on this for an official diagnosis. Please consult a qualified doctor for proper evaluation and treatment."
+    },
+    {
+      "name": "GERD",
+      "brief": "Gastroesophageal Reflux Disease is a chronic digestive disease where stomach acid flows back into the food pipe, irritating the lining.",
+      "causes": ["Weakening of the lower esophageal sphincter", "Hiatal hernia", "Obesity", "Smoking and alcohol consumption", "Eating large meals late at night"],
+      "precautions": ["Avoid trigger foods (fatty, spicy, caffeine)", "Eat smaller, more frequent meals", "Do not lie down immediately after eating", "Elevate the head of your bed"],
+      "associated_symptoms": ["acidity", "ulcers_on_tongue", "vomiting", "cough", "chest_pain"],
+      "disclaimer": "WARNING: This is an automated machine-learning response and may contain mistakes. Do not rely on this for an official diagnosis. Please consult a qualified doctor for proper evaluation and treatment."
+    },
+    {
+      "name": "Chronic Cholestasis",
+      "brief": "A condition where the flow of bile from the liver is reduced or stalled over a prolonged period.",
+      "causes": ["Liver disease (cirrhosis, hepatitis)", "Bile duct obstruction or genetic defects", "Certain long-term medications"],
+      "precautions": ["Follow a low-fat diet", "Avoid alcohol completely", "Monitor liver function regularly", "Take vitamin supplements if recommended by a doctor"],
+      "associated_symptoms": ["itching", "vomiting", "yellowish_skin", "dark_urine", "nausea", "loss_of_appetite", "abdominal_pain", "yellowing_of_eyes"],
+      "disclaimer": "WARNING: This is an automated machine-learning response and may contain mistakes. Do not rely on this for an official diagnosis. Please consult a qualified doctor for proper evaluation and treatment."
+    },
+    {
+      "name": "Drug Reaction",
+      "brief": "An adverse and unintended response or allergic reaction to a properly administered medication.",
+      "causes": ["Immune system hypersensitivity to a drug", "Drug-drug interactions", "Genetic predisposition"],
+      "precautions": ["Stop the suspected medication immediately", "Seek urgent medical care if breathing is affected", "Inform all healthcare providers of your drug allergies", "Always carry an allergy card"],
+      "associated_symptoms": ["itching", "skin_rash", "stomach_pain", "burning_micturition", "spotting_urination"],
+      "disclaimer": "WARNING: This is an automated machine-learning response and may contain mistakes. Do not rely on this for an official diagnosis. Please consult a qualified doctor for proper evaluation and treatment."
+    },
+    {
+      "name": "Peptic Ulcer Disease",
+      "brief": "Sores that develop on the inside lining of the stomach, small intestine, or esophagus.",
+      "causes": ["Helicobacter pylori (H. pylori) bacterial infection", "Long-term use of NSAID painkillers (aspirin, ibuprofen)", "Excessive smoking and alcohol"],
+      "precautions": ["Limit the use of NSAID painkillers", "Avoid spicy, acidic, and fried foods", "Quit smoking and limit alcohol", "Manage stress levels"],
+      "associated_symptoms": ["vomiting", "indigestion", "loss_of_appetite", "abdominal_pain", "stomach_bleeding"],
+      "disclaimer": "WARNING: This is an automated machine-learning response and may contain mistakes. Do not rely on this for an official diagnosis. Please consult a qualified doctor for proper evaluation and treatment."
+    },
+    {
+      "name": "AIDS",
+      "brief": "Acquired Immunodeficiency Syndrome is a chronic, potentially life-threatening condition caused by the Human Immunodeficiency Virus (HIV).",
+      "causes": ["Transmission of HIV via unprotected sexual contact", "Sharing infected needles", "Receiving contaminated blood transfusions", "Mother-to-child during pregnancy or breastfeeding"],
+      "precautions": ["Practice safe sex (use condoms)", "Never share needles or syringes", "Screen blood before transfusion", "Take Pre-Exposure Prophylaxis (PrEP) if at high risk"],
+      "associated_symptoms": ["muscle_wasting", "patches_in_throat", "high_fever", "extra_marital_contacts"],
+      "disclaimer": "WARNING: This is an automated machine-learning response and may contain mistakes. Do not rely on this for an official diagnosis. Please consult a qualified doctor for proper evaluation and treatment."
+    },
+    {
+      "name": "Diabetes",
+      "brief": "A chronic metabolic disorder characterized by high blood glucose levels due to problems with insulin production or usage.",
+      "causes": ["Insulin resistance (Type 2)", "Autoimmune destruction of insulin-producing cells (Type 1)", "Obesity and sedentary lifestyle", "Genetic history"],
+      "precautions": ["Maintain a balanced, low-sugar diet", "Engage in regular physical exercise", "Monitor blood glucose levels consistently", "Take prescribed medication or insulin punctually"],
+      "associated_symptoms": ["fatigue", "weight_loss", "restlessness", "lethargy", "irregular_sugar_level", "blurred_and_distorted_vision", "obesity", "excessive_hunger", "increased_appetite", "polyuria"],
+      "disclaimer": "WARNING: This is an automated machine-learning response and may contain mistakes. Do not rely on this for an official diagnosis. Please consult a qualified doctor for proper evaluation and treatment."
+    },
+    {
+      "name": "Gastroenteritis",
+      "brief": "An intestinal infection marked by diarrhea, cramps, nausea, vomiting, and fever, often called stomach flu.",
+      "causes": ["Viral infections (rotavirus, norovirus)", "Bacterial infections (Salmonella, E. coli)", "Contaminated food or water"],
+      "precautions": ["Stay hydrated with oral rehydration solutions (ORS)", "Wash hands thoroughly before eating", "Consume fresh, well-cooked food", "Avoid contaminated or street food"],
+      "associated_symptoms": ["vomiting", "sunken_eyes", "dehydration", "diarrhoea", "belly_pain"],
+      "disclaimer": "WARNING: This is an automated machine-learning response and may contain mistakes. Do not rely on this for an official diagnosis. Please consult a qualified doctor for proper evaluation and treatment."
+    },
+    {
+      "name": "Bronchial Asthma",
+      "brief": "A chronic respiratory condition where the airways become inflamed, narrow, and swell, producing extra mucus.",
+      "causes": ["Allergens (pollen, dust)", "Respiratory infections", "Cold air or sudden weather changes", "Physical exertion or smoke irritation"],
+      "precautions": ["Avoid known triggers and smoke", "Always keep a rescue inhaler nearby", "Take long-term controller medications as prescribed", "Get annual flu vaccinations"],
+      "associated_symptoms": ["cough", "breathlessness", "family_history", "mucoid_sputum"],
+      "disclaimer": "WARNING: This is an automated machine-learning response and may contain mistakes. Do not rely on this for an official diagnosis. Please consult a qualified doctor for proper evaluation and treatment."
+    },
+    {
+      "name": "Hypertension",
+      "brief": "A chronic condition where the force of the blood against the artery walls is consistently too high (High Blood Pressure).",
+      "causes": ["High salt intake", "Obesity and physical inactivity", "Chronic stress", "Genetics and aging"],
+      "precautions": ["Reduce dietary sodium (salt) intake", "Exercise regularly (at least 30 minutes a day)", "Manage stress through relaxation techniques", "Limit alcohol and quit smoking"],
+      "associated_symptoms": ["headache", "chest_pain", "dizziness", "loss_of_balance"],
+      "disclaimer": "WARNING: This is an automated machine-learning response and may contain mistakes. Do not rely on this for an official diagnosis. Please consult a qualified doctor for proper evaluation and treatment."
+    },
+    {
+      "name": "Migraine",
+      "brief": "A neurological condition characterized by intense, debilitating throbbing headaches, usually on one side of the head.",
+      "causes": ["Hormonal changes", "Stress and anxiety", "Sensory stimuli (bright lights, loud sounds)", "Irregular sleep patterns or specific foods"],
+      "precautions": ["Maintain a regular sleep schedule", "Identify and avoid dietary triggers (caffeine, aged cheese)", "Stay hydrated", "Rest in a dark, quiet room during an attack"],
+      "associated_symptoms": ["acidity", "indigestion", "headache", "blurred_and_distorted_vision", "depression", "irritability", "visual_disturbances"],
+      "disclaimer": "WARNING: This is an automated machine-learning response and may contain mistakes. Do not rely on this for an official diagnosis. Please consult a qualified doctor for proper evaluation and treatment."
+    },
+    {
+      "name": "Cervical Spondylosis",
+      "brief": "Age-related wear and tear affecting the spinal disks in the neck.",
+      "causes": ["Aging and degeneration of spinal disks", "Prolonged poor posture (looking down at screens)", "Neck injuries", "Repetitive neck strain"],
+      "precautions": ["Maintain good posture while sitting and working", "Do regular neck stretching exercises", "Use an ergonomic chair and pillow", "Take frequent breaks from screens"],
+      "associated_symptoms": ["back_pain", "neck_pain", "dizziness", "loss_of_balance"],
+      "disclaimer": "WARNING: This is an automated machine-learning response and may contain mistakes. Do not rely on this for an official diagnosis. Please consult a qualified doctor for proper evaluation and treatment."
+    },
+    {
+      "name": "Paralysis (Brain Hemorrhage)",
+      "brief": "Loss of muscle function in part of the body, caused here by bleeding inside the brain disrupting neural pathways.",
+      "causes": ["Severe high blood pressure", "Ruptured brain aneurysm", "Head trauma", "Blood vessel abnormalities"],
+      "precautions": ["Strictly manage and control blood pressure", "Avoid smoking and heavy drinking", "Seek immediate emergency care at the first sign of stroke", "Engage in regular physical therapy during recovery"],
+      "associated_symptoms": ["vomiting", "headache", "weakness_in_limbs", "slurred_speech", "weakness_of_one_body_side", "altered_sensorium"],
+      "disclaimer": "WARNING: This is an automated machine-learning response and may contain mistakes. Do not rely on this for an official diagnosis. Please consult a qualified doctor for proper evaluation and treatment."
+    },
+    {
+      "name": "Jaundice",
+      "brief": "A yellow staining of the skin and eyes caused by high levels of bilirubin in the blood.",
+      "causes": ["Liver infection (hepatitis)", "Gallstones blocking the bile duct", "Hemolytic anemia", "Alcohol-induced liver damage"],
+      "precautions": ["Eat a light, easily digestible diet", "Avoid alcohol and fatty foods entirely", "Drink boiled or purified water", "Get adequate rest to support liver recovery"],
+      "associated_symptoms": ["vomiting", "high_fever", "yellowish_skin", "dark_urine", "abdominal_pain"],
+      "disclaimer": "WARNING: This is an automated machine-learning response and may contain mistakes. Do not rely on this for an official diagnosis. Please consult a qualified doctor for proper evaluation and treatment."
+    },
+    {
+      "name": "Malaria",
+      "brief": "A life-threatening disease caused by plasmodium parasites transmitted through the bite of infected female Anopheles mosquitoes.",
+      "causes": ["Bite of an infected female Anopheles mosquito", "Contaminated blood transfusion (rare)"],
+      "precautions": ["Use mosquito nets and insect repellent", "Wear protective clothing covering skin", "Eliminate stagnant water around the home", "Take prophylactic medications if traveling to endemic areas"],
+      "associated_symptoms": ["chills", "vomiting", "high_fever", "sweating", "headache", "muscle_pain"],
+      "disclaimer": "WARNING: This is an automated machine-learning response and may contain mistakes. Do not rely on this for an official diagnosis. Please consult a qualified doctor for proper evaluation and treatment."
+    },
+    {
+      "name": "Chicken Pox",
+      "brief": "A highly contagious viral infection causing an itchy, blister-like rash all over the body.",
+      "causes": ["Varicella-zoster virus (VZV)", "Direct contact with blisters or respiratory droplets of an infected person"],
+      "precautions": ["Isolate the infected individual", "Get vaccinated (Varicella vaccine)", "Avoid scratching blisters to prevent scarring/infection", "Keep skin cool and clean"],
+      "associated_symptoms": ["itching", "skin_rash", "fatigue", "lethargy", "high_fever", "headache", "loss_of_appetite", "mild_fever", "swelled_lymph_nodes", "malaise", "red_spots_over_body"],
+      "disclaimer": "WARNING: This is an automated machine-learning response and may contain mistakes. Do not rely on this for an official diagnosis. Please consult a qualified doctor for proper evaluation and treatment."
+    },
+    {
+      "name": "Dengue",
+      "brief": "A mosquito-borne viral infection causing severe flu-like symptoms and potentially fatal complications like hemorrhagic fever.",
+      "causes": ["Bite of an infected Aedes mosquito infected with the dengue virus"],
+      "precautions": ["Prevent mosquito breeding by draining stagnant water", "Use mosquito screens and repellents", "Stay hydrated with fluids and electrolytes", "Avoid taking aspirin or ibuprofen (use paracetamol instead)"],
+      "associated_symptoms": ["skin_rash", "chills", "joint_pain", "vomiting", "high_fever", "headache", "nausea", "loss_of_appetite", "pain_behind_the_eyes", "back_pain", "muscle_pain", "red_spots_over_body"],
+      "disclaimer": "WARNING: This is an automated machine-learning response and may contain mistakes. Do not rely on this for an official diagnosis. Please consult a qualified doctor for proper evaluation and treatment."
+    },
+    {
+      "name": "Typhoid",
+      "brief": "A life-threatening bacterial infection causing high fever and severe gastrointestinal symptoms.",
+      "causes": ["Salmonella typhi bacteria", "Ingestion of contaminated food or water"],
+      "precautions": ["Drink safe, boiled, or bottled water", "Eat hot, freshly cooked food", "Maintain strict hand hygiene", "Get vaccinated before traveling to high-risk zones"],
+      "associated_symptoms": ["chills", "vomiting", "fatigue", "high_fever", "headache", "nausea", "loss_of_appetite", "constipation", "abdominal_pain", "diarrhoea", "toxic_look_(typhos)", "belly_pain"],
+      "disclaimer": "WARNING: This is an automated machine-learning response and may contain mistakes. Do not rely on this for an official diagnosis. Please consult a qualified doctor for proper evaluation and treatment."
+    },
+    {
+      "name": "Hepatitis A/B/C/D/E",
+      "brief": "Inflammation of the liver caused by various hepatitis viruses (A to E), leading to liver damage ranging from acute to chronic.",
+      "causes": ["Contaminated food and water (Hep A, E)", "Infected blood, semen, or bodily fluids (Hep B, C, D)", "Unsterile injections or blood transfusions"],
+      "precautions": ["Get vaccinated against Hepatitis A and B", "Consume clean, hygienic food and water", "Avoid sharing needles or razors", "Ensure sterile equipment is used for medical procedures", "Practice safe sex"],
+      "associated_symptoms": ["joint_pain", "vomiting", "fatigue", "lethargy", "high_fever", "yellowish_skin", "dark_urine", "nausea", "loss_of_appetite", "abdominal_pain", "diarrhoea", "mild_fever", "yellowing_of_eyes", "acute_liver_failure", "coma", "receiving_blood_transfusion", "receiving_unsterile_injections"],
+      "disclaimer": "WARNING: This is an automated machine-learning response and may contain mistakes. Do not rely on this for an official diagnosis. Please consult a qualified doctor for proper evaluation and treatment."
+    },
+    {
+      "name": "Tuberculosis",
+      "brief": "A serious, highly infectious bacterial disease that mainly affects the lungs but can spread to other organs.",
+      "causes": ["Mycobacterium tuberculosis bacteria", "Inhaling microscopic droplets from the cough or sneeze of an infected person"],
+      "precautions": ["Complete the entire long-term course of prescribed antibiotics", "Wear masks in crowded space if infected", "Ensure proper room ventilation", "Get BCG vaccination for infants"],
+      "associated_symptoms": ["chills", "fatigue", "weight_loss", "cough", "high_fever", "breathlessness", "sweating", "loss_of_appetite", "mild_fever", "swelled_lymph_nodes", "malaise", "phlegm", "chest_pain", "blood_in_sputum"],
+      "disclaimer": "WARNING: This is an automated machine-learning response and may contain mistakes. Do not rely on this for an official diagnosis. Please consult a qualified doctor for proper evaluation and treatment."
+    },
+    {
+      "name": "Common Cold",
+      "brief": "A viral infection of your upper respiratory tract, primarily affecting your nose and throat.",
+      "causes": ["Rhinoviruses (most common) or other coronaviruses", "Airborne droplets or touching contaminated surfaces"],
+      "precautions": ["Wash hands frequently with soap and water", "Avoid close contact with infected individuals", "Stay hydrated and rest well", "Cover your mouth and nose when sneezing"],
+      "associated_symptoms": ["continuous_sneezing", "chills", "fatigue", "cough", "high_fever", "headache", "swelled_lymph_nodes", "malaise", "phlegm", "throat_irritation", "redness_of_eyes", "sinus_pressure", "runny_nose", "congestion", "loss_of_smell"],
+      "disclaimer": "WARNING: This is an automated machine-learning response and may contain mistakes. Do not rely on this for an official diagnosis. Please consult a qualified doctor for proper evaluation and treatment."
+    },
+    {
+      "name": "Pneumonia",
+      "brief": "An infection that inflames the air sacs (alveoli) in one or both lungs, which may fill with fluid or pus.",
+      "causes": ["Bacterial infections (Streptococcus pneumoniae)", "Viral infections (Influenza, RSV)", "Fungal infections (in compromised immunity)"],
+      "precautions": ["Get the pneumococcal vaccine and annual flu shot", "Practice good hand hygiene", "Quit smoking to protect lung defenses", "Seek prompt treatment for lingering respiratory infections"],
+      "associated_symptoms": ["chills", "fatigue", "cough", "high_fever", "breathlessness", "sweating", "malaise", "phlegm", "chest_pain", "fast_heart_rate", "rusty_sputum"],
+      "disclaimer": "WARNING: This is an automated machine-learning response and may contain mistakes. Do not rely on this for an official diagnosis. Please consult a qualified doctor for proper evaluation and treatment."
+    },
+    {
+      "name": "Heart Attack",
+      "brief": "A medical emergency where the flow of blood to a section of the heart muscle becomes blocked, causing tissue damage.",
+      "causes": ["Coronary artery disease (plaque buildup)", "Blood clot blocking an artery", "High cholesterol and hypertension", "Smoking and sedentary lifestyle"],
+      "precautions": ["Maintain a heart-healthy, low-cholesterol diet", "Exercise regularly and maintain a healthy weight", "Do not smoke and minimize stress", "Take prescribed blood pressure or cholesterol medicines strictly"],
+      "associated_symptoms": ["vomiting", "breathlessness", "sweating", "chest_pain"],
+      "disclaimer": "WARNING: This is an automated machine-learning response and may contain mistakes. Do not rely on this for an official diagnosis. Please consult a qualified doctor for proper evaluation and treatment."
+    },
+    {
+      "name": "Varicose Veins",
+      "brief": "Gnarled, enlarged veins, most commonly appearing in the legs and feet due to weakened vein valves.",
+      "causes": ["Weakened or damaged vein valves", "Prolonged standing or sitting", "Pregnancy and obesity", "Family history"],
+      "precautions": ["Avoid standing or sitting for long periods without moving", "Exercise regularly to improve leg circulation", "Elevate your legs when resting", "Wear compression stockings"],
+      "associated_symptoms": ["cramps", "bruising", "obesity", "swollen_legs", "swollen_blood_vessels", "prominent_veins_on_calf"],
+      "disclaimer": "WARNING: This is an automated machine-learning response and may contain mistakes. Do not rely on this for an official diagnosis. Please consult a qualified doctor for proper evaluation and treatment."
+    },
+    {
+      "name": "Hypothyroidism",
+      "brief": "A condition in which the thyroid gland doesn't produce enough crucial thyroid hormones.",
+      "causes": ["Autoimmune disease (Hashimoto's thyroiditis)", "Surgical removal of thyroid or radiation therapy", "Severe iodine deficiency"],
+      "precautions": ["Take prescribed thyroid hormone replacement medication consistently", "Get regular blood tests to monitor TSH levels", "Maintain an adequate dietary intake of iodine", "Eat a fiber-rich diet to combat constipation"],
+      "associated_symptoms": ["fatigue", "weight_gain", "cold_hands_and_feets", "mood_swings", "lethargy", "constipation", "puffy_face_and_eyes", "enlarged_thyroid", "brittle_nails", "swollen_extremeties", "depression", "irritability", "abnormal_menstruation"],
+      "disclaimer": "WARNING: This is an automated machine-learning response and may contain mistakes. Do not rely on this for an official diagnosis. Please consult a qualified doctor for proper evaluation and treatment."
+    },
+    {
+      "name": "Hyperthyroidism",
+      "brief": "A condition occurring when the thyroid gland produces excessive amounts of the hormone thyroxine.",
+      "causes": ["Graves' disease (autoimmune disorder)", "Hyperfunctioning thyroid nodules", "Excessive iodine intake"],
+      "precautions": ["Follow treatment plan (anti-thyroid drugs, radioactive iodine)", "Monitor heart health regularly", "Avoid excess iodine-rich foods like seaweed", "Manage stress and get sufficient rest"],
+      "associated_symptoms": ["weight_loss", "restlessness", "lethargy", "sweating", "diarrhoea", "fast_heart_rate", "muscle_weakness", "irritability", "abnormal_menstruation", "increased_appetite"],
+      "disclaimer": "WARNING: This is an automated machine-learning response and may contain mistakes. Do not rely on this for an official diagnosis. Please consult a qualified doctor for proper evaluation and treatment."
+    },
+    {
+      "name": "Arthritis",
+      "brief": "Inflammation of one or more joints, causing pain, stiffness, and reduced mobility that typically worsens with age.",
+      "causes": ["Wear and tear of joint cartilage (Osteoarthritis)", "Autoimmune attack on joint linings (Rheumatoid arthritis)", "Uric acid crystal buildup (Gout)"],
+      "precautions": ["Engage in low-impact exercises (swimming, cycling)", "Maintain a healthy weight to reduce joint pressure", "Apply hot/cold packs to alleviate joint discomfort", "Eat an anti-inflammatory diet rich in Omega-3"],
+      "associated_symptoms": ["joint_pain", "neck_pain", "knee_pain", "hip_joint_pain", "muscle_weakness", "stiff_neck", "swelling_joints", "movement_stiffness", "painful_walking"],
+      "disclaimer": "WARNING: This is an automated machine-learning response and may contain mistakes. Do not rely on this for an official diagnosis. Please consult a qualified doctor for proper evaluation and treatment."
+    },
+    {
+      "name": "Psoriasis",
+      "brief": "A chronic autoimmune skin disease that causes rapid buildup of skin cells, leading to scaling and inflammation.",
+      "causes": ["Autoimmune system acceleration of skin cell growth", "Genetic factors", "Triggers like stress, skin injuries, or certain medications"],
+      "precautions": ["Keep skin thoroughly moisturized", "Avoid known skin irritants or harsh soaps", "Manage mental stress levels", "Get moderate, controlled sun exposure"],
+      "associated_symptoms": ["skin_rash", "joint_pain", "skin_peeling", "silver_like_dusting", "small_dents_in_nails", "inflammatory_nails"],
+      "disclaimer": "WARNING: This is an automated machine-learning response and may contain mistakes. Do not rely on this for an official diagnosis. Please consult a qualified doctor for proper evaluation and treatment."
+    },
+    {
+      "name": "Impetigo",
+      "brief": "A highly contagious bacterial skin infection that causes sores and blisters, predominantly in infants and children.",
+      "causes": ["Staphylococcus aureus or Streptococcus pyogenes bacteria", "Bacteria entering through broken skin (scratches, insect bites)"],
+      "precautions": ["Gently wash infected sores with mild soap and water", "Keep sores loosely covered to prevent bacterial spread", "Wash the infected person's clothes and towels separately", "Keep fingernails trimmed short to prevent scratching"],
+      "associated_symptoms": ["itching", "skin_rash", "high_fever", "blister", "red_sore_around_nose", "yellow_crust_ooze"],
+      "disclaimer": "WARNING: This is an automated machine-learning response and may contain mistakes. Do not rely on this for an official diagnosis. Please consult a qualified doctor for proper evaluation and treatment."
+    }
+  ]
+}
